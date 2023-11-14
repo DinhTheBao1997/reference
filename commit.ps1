@@ -1,1 +1,1 @@
-git pull; git add .; git commit -m "commit source"; git push
+git pull; git add .; git commit -m "Auto commit"; git push
